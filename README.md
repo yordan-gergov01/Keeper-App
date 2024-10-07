@@ -35,15 +35,25 @@ Keeper App is a note-taking application built with React, using Vite and Materia
 
 .
 ├── public
+
 ├── src
+
 │   ├── components
+
 │   │   ├── Header.jsx
+
 │   │   ├── Footer.jsx
+
 │   │   ├── Note.jsx
+
 │   │   ├── CreateArea.jsx
+
 │   ├── App.jsx
+
 │   ├── index.jsx
+
 ├── package.json
+
 └── README.md
 
 
